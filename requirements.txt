@@ -1,0 +1,10 @@
+heroku3
+tgcrypto
+ffmpeg-python
+python-dotenv
+youtube_search
+py-tgcalls==0.8.0
+wrapt_timeout_decorator
+youtube_search_python==1.4.9
+git+https://github.com/asmsafone/downloader
+git+https://github.com/asmsafone/pyrogram@master
