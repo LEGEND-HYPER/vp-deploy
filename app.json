@@ -1,8 +1,8 @@
 {
-    "name": "Deploy Video Player",
-    "description": "An Telegram Bot By To Stream Videos in Voice Chat",
-    "repository": "https://github.com/S1-BOTS/vp-deploy",
-    "logo": "https://telegra.ph/file/f7fd45bd57dbe5a14e0f3.jpg",
+    "name": "Video Player",
+    "description": "A Telegram bot to stream Video on Voice Chat",
+    "repository": "https://github.com/mukund123456/vp-deploy",
+    "logo": "https://telegra.ph/file/42e5e3075718b39964476.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
